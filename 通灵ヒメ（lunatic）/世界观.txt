@@ -32,5 +32,5 @@ https://github.com/SnowyYANG/sim.world
 熵
 无论Δ (delta) 是正数还是负数，计算出来的熵的Δ都是正数（像绝对值算法、平方算法那样），传统能量学（热力学）的bug。
 或者说，无论x随着时间变大或变小，熵都变大了，这里x如果指代温度，就是热力学第二定律。
-比如：entropy(x[i])=entropy(x[i-1])+(x[i]-x[i-1])*(x[i]-x[i-1])，无论x数组里都是些什么值，entropy(x[100])肯定不会比entropy(x[0]）小。
+比如：entropy(x[i])=entropy(x[i-1])+(x[i]-x[i-1])*(x[i]-x[i-1])，无论x数组里都是些什么值，entropy(x[100])肯定不会比entropy(x[0])小。
 意识、信息、情感也都有能量，能量并不是要依附于物质才能存在，所以熵增bug并不仅仅只是热力学的bug。
