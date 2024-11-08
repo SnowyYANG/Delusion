@@ -15,7 +15,7 @@ TODO：作者正在思考要不要整个纯文字简版上Steam（可能带概�
 超越生死的爱情，为了生存的现实。
 私人情感，家国情怀。
 
-异国双男主另类历史（alternative history的Google翻译）小说。
+异国双男主另类历史（alternative history的Google翻译）互动小说。
 ---
 
 主要角色：
