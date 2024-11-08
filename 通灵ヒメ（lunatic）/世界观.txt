@@ -1,4 +1,6 @@
-https://github.com/SnowyYANG/sim.world
+（本文件为游戏策划开发中文件，不代表最终游戏版本内容。）
+
+友情链接：https://github.com/SnowyYANG/sim.world
 
 灵界、人间界
 
